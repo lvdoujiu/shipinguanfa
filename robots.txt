@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lvdoujiu.github.io/shipinguanfa/sitemap.xml
